@@ -1,0 +1,68 @@
+[
+    {
+        "name": "friedEggs",
+        "img" :"../img/breakfast1.jpg",
+        "meal" :"breakfast",
+        "description" : "In a small nonstick over medium heat, melt butter (or heat oil). Crack egg into pan. Cook 3 minutes, or until white is set. Flip and cook 2 to 3 minutes more, until yolk is completely set."
+    },
+    {
+        "name": "croisantChoco",
+        "img" :"../img/breakfast2.jpg",
+        "meal" :"breakfast",
+        "description" : "Place about 2 teaspoons of the chocolate chips down the center of each triangle. Then, starting at the wider end, roll each triangle up. Place each croissant seam-side down so that the tip of the triangle is tucked under the rolled croissant. Then, bend in the edges, creating a crescent shape."
+    },
+    {
+        "name": "pancakes",
+        "img" :"../img/breakfast3.jpg",
+        "meal" :"breakfast",
+        "description" : "A pancake is a breakfast dish, a flat cake that's made by pouring batter into a hot pan and frying it on both sides. ... Most pancakes begin as a mixture of flour, eggs, milk, and butter, are fried on a greased griddle, and are circular in shape."
+    },
+    {
+        "name": "steak",
+        "img" :"../img/lunch1.jpg",
+        "meal" :"lunch",
+        "description" : "Steak is a meat generally sliced across the muscle fibers, potentially including a bone. It is normally grilled, though it can also be pan-fried. ... For some meats, such as pork, lamb and mutton, chevon, and veal, these cuts are often referred to as chops. Some cured meat, such as gammon, is commonly served as steak."
+    },
+    {
+        "name": "fish",
+        "img" :"../img/lunch2.jpg",
+        "meal" :"lunch",
+        "description" : "Fried fish is any fish or shellfish that has been prepared by frying. Often, the fish is covered in batter, egg and breadcrumbs, flour, or herbs and spices before being fried and served, often with a slice of lemon. ...."
+    },
+    {
+        "name": "salad",
+        "img" :"../img/lunch3.jpg",
+        "meal" :"lunch",
+        "description" : "Whether you want to add more plant-based meals to your diet or are simply looking to change up your salad game, you will find tons of inspiration in the salad recipes below. With everything from green salads to pasta salads and beyond, these recipes are perfect for passing at potlucks, serving as dinner sides, and enjoying as full meals on their own."
+    },
+    {
+        "name": "noodles",
+        "img" :"../img/lunch4.jpg",
+        "meal" :"lunch",
+        "description" : "Noodles are a type of food made from unleavened dough which is rolled flat and cut, stretched or extruded, into long strips or strings. ... Noodles are usually cooked in boiling water, sometimes with cooking oil or salt added. They are also often pan-fried or deep-fried."
+    },
+    {
+        "name": "soup",
+        "img" :"../img/lunch5.jpg",
+        "meal" :"lunch",
+        "description" : "Soup, liquid food prepared by cooking meat, poultry, fish, legumes, or vegetables with seasonings in water, stock, milk, or some other liquid medium. ... The long cooking of soup enabled nourishment to be drawn from meagre quantities of fish and meat too bony or tough to be otherwise utilized.."
+    },
+    {
+        "name": "fruitShake",
+        "img" :"../img/shake1.jpg",
+        "meal" :"shake",
+        "description" : "A Fruit Smoothie is a blended drink with a milkshake-like consistency that starts with either fresh or frozen fruit. To the fruit you can add a variety of ingredients. Things like frozen ices (sorbet or sherbet), yogurt (plain or flavored), crushed ice, and fruit juices."
+    },
+    {
+        "name": "chocoShake",
+        "img" :"../img/shake2.jpg",
+        "meal" :"shake",
+        "description" : "The best chocolate shakes are made with vanilla ice cream and chocolate syrup because that allows you to control the level of chocolate flavor and make sure your shake is packed with it. Blending chocolate ice cream with milk creates a good shake, but the milk is going to dilute the chocolate flavor, and it is just not going to pack the same chocolate punch as a shake made with plenty of chocolate sauce."
+    },
+    {
+        "name": "icecreamShake",
+        "img" :"../img/shake2.jpg",
+        "meal" :"shake",
+        "description" : "Making a milkshake is pretty easy, but making a perfect milkshake is all about balance. No matter what flavor you like, the right ratio of ice cream to milk is key and knowing a few simple tricks will help take your dessert from good to great. Once you have the base of your shake perfected, you can add any flavoring ingredients your heart desires."
+    }
+]
